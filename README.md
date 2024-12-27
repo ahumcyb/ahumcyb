@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ahumcyb}" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{ahumcyb}" width="800" height="96"/>
 </a>
 
 -行百里者半九十 
